@@ -1,0 +1,67 @@
+[
+    {
+      "Price":9700,
+      "offer": 0,
+      "id": 1,
+      "title": "Asuse Laptop",
+      "img": "https://image.scoopwhoop.com/w360/s3.scoopwhoop.com/anj/sw/b6fbdfa9-710d-463b-bf35-84ee00f26474.jpg",
+      "description": "CPU 2800 i7 intel Ram 16GB DDR4 VGA 3200 6GB HDD 1TB+126GB SSD"
+    },
+    {
+      "Price": 9500,
+      "id": 1,
+      "offer": 0,
+      "title": "XnZ Laptop",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaI7Bd-KbGkyDmhR6HKFMOQOTDI0Wzkz8rqA&usqp=CAU",
+      "description": "CPU 2800 i7 intel Ram 16GB DDR4 VGA 3200 6GB HDD 1TB+126GB SSD"
+    },
+    {
+      "Price": 1400,
+      "id": 1,
+      "offer": 0,
+      "title": "Dfs Laptop",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3o7zD54dwucZDPMO7M4yz9tdczoclzM_VKA&usqp=CAU",
+      "description": "CPU 2800 i7 intel Ram 16GB DDR4 VGA 3200 6GB HDD 1TB+126GB SSD"
+    },
+    {
+      "Price": 11100,
+      "id": 1,
+      "offer": 0,
+      "title": "Bcd Laptop",
+      "img": "https://asset.fujifilm.com/www/us/files/styles/600x400/public/2020-03/155b4fec94ce7a8bd31b7c265efcb936/thumb_instaxcameras_13.jpg?itok=THlm-Bn5",
+      "description": "CPU 2800 i7 intel Ram 16GB DDR4 VGA 3200 6GB HDD 1TB+126GB SSD"
+    },
+    {
+      "Price": 7700,
+      "id": 1,
+      "offer": 0,
+      "title": "Edf Laptop",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOSFedOPpo4aB09Fg6GehMeVrVCX90jXQ_Q&usqp=CAU",
+      "description": "CPU 2800 i7 intel Ram 16GB DDR4 VGA 3200 6GB HDD 1TB+126GB SSD"
+    },
+    {
+      "Price": 9900,
+      "id": 1,
+      "offer": 0,
+      "title": "Fgd Laptop",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsEUobLNkES_55H3dfGd1WWqLExh-ph5KpKg&usqp=CAU",
+      "description": "CPU 2800 i7 intel Ram 16GB DDR4 VGA 3200 6GB HDD 1TB+126GB SSD"
+    },
+    {
+      "Price": 9400,
+      "id": 1,
+      "offer": 1,
+      "offerprice": 25,
+      "title": "Tfg Laptop",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-Kp140K_UqZpN_C6516JkvKC0BRQOkGoYg&usqp=CAU",
+      "description": "CPU 2800 i7 intel Ram 16GB DDR4 VGA 3200 6GB HDD 1TB+126GB SSD"
+    },{
+      "Price": 6543,
+      "id": 1,
+      "offer": 1,
+      "offerprice": 25,
+      "title": "Sdf Laptop",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJL2W4DNWwte5owElCbLZqz_yVYqUpCQ-eLg&usqp=CAU",
+      "description": "CPU 2800 i7 intel Ram 16GB DDR4 VGA 3200 6GB HDD 1TB+126GB SSD"
+    }
+  ]
