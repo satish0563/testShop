@@ -92,14 +92,14 @@ function ResponsiveDrawer(props) {
   };
 
   const handleClose = () => {
-    setAnchorEl(null);
+   setAnchorEl(null);
   };
   const drawer = (
     <div>
       <List>
         {[
           { text: "Dashboard", icon: "home" },
-          { text: "Shop", icon: "ShoppingCart" },
+          { text: "Shop", icon: "shoppingcart" },
           { text: "profile", icon: "person" },
           { text: "Inbox", icon: "drafts" }
          
@@ -214,7 +214,7 @@ function ResponsiveDrawer(props) {
             component={RouterLink}
             className={classes.logo}
           >
-            Material World
+            Shopping
           </Typography>
           <div style={{ flexGrow: 1 }}></div>
           <LanguageIcon />
